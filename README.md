@@ -1,9 +1,6 @@
-# math-codes
-these are all the mathematics formulas or ideas that i have coded, so that i could understand them better
+# math - codes
+all the math stuff i had coded, just because i wanted to understand them better.
+(its also because i found them interesting!)
 
-# # list of all ideas
-# sqrt_counter.py
-basically uses the babylonian method to find the perfect square of any given number
-sources:
-https://www.youtube.com/watch?v=MXveVqBxFow
-https://blogs.sas.com/content/iml/2016/05/16/babylonian-square-roots.html
+## list of sources
+**babylonian-sqrt.py** (https://www.youtube.com/watch?v=MXveVqBxFow)
